@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 100%;
+    background: #f8f8f8;
+}
+
+
+form {
+    width: 30%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #b0c4de;
+    background: white;
+    border-radius: 50px 0px 50px 10px;
+    background-color: aqua;
+}
+
+
+.input-group {
+    margin: 10px 0px 10px 0px;
+}
+
+
+.input-group input {
+    height: 30px;
+    width: 90%;
+    padding: 0px 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+.btn {
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    background: #676969;
+    border: none;
+    border-radius: 5px;
+}
